@@ -85,17 +85,17 @@
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
      },
-    "ys工厂": {
-      "api": "https://cj.lziapi.com/api.php/provide/vod/",
-      "name": "影视工厂"
+    "91": {
+      "api": "https://91jpzyw.com/api.php/provide/vod/at/json",
+      "name": "91精品资源"
      },
-    "七七": {
-      "api": "https://www.qiqidys.com/api.php/provide/vod/",
-      "name": "七七资源"
+    "红牛": {
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod/at/xml/",
+      "name": "红牛云播"
      },
-    "饭团": {
-      "api": "https://www.fantuan.tv/api.php/provide/vod/",
-      "name": "饭团影视"
+    "杏吧": {
+      "api": "https://xingba111.com/api.php/provide/vod/at/xml",
+      "name": "杏吧资源"
     }
   }
 }
