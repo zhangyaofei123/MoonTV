@@ -84,6 +84,18 @@
     "xiaomaomi": {
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
+     },
+    "ys工厂": {
+      "api": "https://cj.lziapi.com/api.php/provide/vod/",
+      "name": "影视工厂"
+     },
+    "七七": {
+      "api": "https://www.qiqidys.com/api.php/provide/vod/",
+      "name": "七七资源"
+     },
+    "饭团": {
+      "api": "https://www.fantuan.tv/api.php/provide/vod/",
+      "name": "饭团影视"
     }
   }
 }
